@@ -1,3 +1,5 @@
+![logo](https://github.com/Mayuri1053/Mayuri1053/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Mayuri Gaikwad</h1>
 <h3 align="center">A passionate Data Analysis Student from India</h3>
 
