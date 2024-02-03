@@ -1,22 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mayuri Gaikwad</h1>
-<h3 align="center">A passionate Data Analysis Student from India</h3>
+# 👋 Hello, I'm Mayuri!
 
-![code](https://github.com/Mayuri1053/Mayuri1053/assets/112091044/9b898dfd-1645-4092-977e-1315d12c5f3f)
+## 🚀 Data Science Engineer specializing in Data Analysis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri1053&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri1053" /> </p>
+📍 **Pune**  
+📧 **Email:** [mayuri1234gaikwad@gmail.com](mailto:mayuri1234gaikwad@gmail.com)  
+🔗 **LinkedIn:** [mayuri-gaikwad](https://www.linkedin.com/in/mayuri-gaikwad-971a19253/)  
+👨‍💻 **GitHub:** [Mayuri1053](https://github.com/Mayuri1053)
 
-- 🔭 I’m currently studying on **AI & DS Engineering**
+### About Me 🌐
+Passionate newcomer sculpting data and language into meaningful experiences through projects in data science, machine learning, and natural language processing.
 
-- 🌱 I’m currently learning **Python, Tableau, Power BI,**
 
-- 📫 How to reach me **mayuri1234gaikwad@gmail.com**
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, C++, C
+- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Beautiful Soup, Seaborn
+- **Tools:** Jupyter Notebooks,Google Colab,Visual Studio Code
+- **Analysis:** Excel, Power BI, Exploratory Data Analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayuri-gaikwad-971a19253" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-gaikwad-971a19253" height="30" width="40" /></a>
-<a href="https://kaggle.com/mayuri777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayuri777" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mayuri_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mayuri_10" height="30" width="40" /></a>
-</p>
+### Education 🎓
+- **Bachelors in Artificial Intelligence & Data Science**, Savitribai Phule Pune University
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Certifications 📜
+- **Coursera:** Google Data Analytics Specialization
+- **Great Learning:** Data Science Foundations
+- **AICTE:** Mathworks Virtual Internship Program on 'Get started with Artificial Intelligence'
+  
+🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI & Data analysis!
